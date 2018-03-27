@@ -1,0 +1,23 @@
+.block {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    border: 1px double;
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    width: 50px;
+    text-align: center;
+     
+}
+.allBlocks {
+    text-align: center;
+    margin: 0 45%;
+    display: table-row;
+    
+}
+#inputBtn, #inputBtn2 {
+    margin-top: 2px;
+    width: 52px;
+}
+#inputBtn {
+    visibility: hidden;
+}
